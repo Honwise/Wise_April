@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+}
+Footer {
+height: 200px;
+background-color: black; 
+display: flex;
+justify-content: space-around;
+align-items: normal;
+}
